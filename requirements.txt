@@ -1,0 +1,4 @@
+cv2
+openpyxl
+smtplib
+email
